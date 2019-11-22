@@ -1,2 +1,2 @@
-# stat-202c-monte-carlo-methods
-UCLA Stat 202C - Monte Carlo Methods for Optimization
+# stat-202c-importance-sampling-and-ess
+Importance sampling and effective sample size
